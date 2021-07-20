@@ -1,6 +1,6 @@
-### Hi there! I'm Ana, nice to meet you.
+### Hi there! I'm Pol, nice to meet you.
 
-
+I'm a rising senior at the University of Chicago, majoring in Mathematics and Computer Science.
 
 This summer I am at Ben Y. Zhao & Heather Zheng's [SANDLab](http://sandlab.cs.uchicago.edu/), where I've been doing research since May. I am working on a project about security aspects of machine learning models used for anomaly detection. Among other things, I have played with WiFi propagation models, LTE signal spectra, and learnt a good deal of PyTorch and Tensorflow.
 
@@ -8,6 +8,7 @@ You can see some of the code I've written [over here](/about#projects); I am int
 
 ---
 
+I currently serve as vice president of the [UChicago Applied Math Club](https://ucamc.github.io), where we invite professors to give talks about their research, related to or involving mathematics. I also helped organize the [17th International Colloquium of the North American Catalan Society](https://voices.uchicago.edu/nacs2019/) (NACS) this past April.
 
 For a more succint summary of what I have done, please take a look at my [resume](/polgomez_CV.pdf). I also have a [LinkedIn profile](https://www.linkedin.com/in/gomezp/).
 
