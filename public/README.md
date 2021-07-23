@@ -1,5 +1,6 @@
 ## What is this?
-The source code of my personal website, [polgomez.com](https://polgomez.com).
+This is just a test. 
+
 
 ## How is it built?
 I have been using [`harp`](http://harpjs.com) to great satisfaction.
